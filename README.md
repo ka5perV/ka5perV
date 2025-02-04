@@ -7,8 +7,8 @@ I'm an IT-engineering student interested in **data engineering** and **programmi
                             | |
                             | |
           /\---/\   _,---._ | |
-         /^   ^  \,'       `. ;
-        ( O   O   )           ;
+         /-   -  \,'       `. ;
+        ( ^   ^   )           ;
          `.=o=__,'            \
            /         _,--.__   \
           /  _ )   ,'   `-. `-. \
